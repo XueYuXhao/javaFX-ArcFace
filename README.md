@@ -1,1 +1,1 @@
-# -javafx-ArcFace
+# javafx-ArcFace
